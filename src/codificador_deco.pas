@@ -265,7 +265,7 @@ end;
 var
   texto: string;
 begin
-  texto := 'Hola Mundo!';
+  texto := 'INSERTA TU TEXTO AQUI';
   Writeln('Codificador y Decodificador de Anto - 2010');
   Writeln('Texto original: ', texto);
   Writeln('Base64: ', EncodeBase64(texto));
