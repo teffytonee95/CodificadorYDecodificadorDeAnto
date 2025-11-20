@@ -174,7 +174,7 @@ end;
 var
   texto: string;
 begin
-  texto := 'INSERTA TU TEXTO AQUI';
+  texto := 'INSERTA TU MENSAJE AQUI';
   Writeln('Codificador y Decodificador de Anto - 2010 (Turbo Pascal)');
   Writeln('Texto original: ', texto);
   Writeln('Base64: ', EncodeBase64(texto));
