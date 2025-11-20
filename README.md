@@ -58,13 +58,13 @@ Se recomienda **Free Pascal Compiler (FPC)** o **Lazarus**.
 ### Compilación con FPC
 
 ```bash
-fpc codificador_anto_final.pas
+fpc codificador_deco.pas
 ```
 
 ### Ejecutar el programa
 
 ```bash
-./codificador_anto_final
+./codificador_deco
 ```
 
 Deberías ver la salida con todos los métodos de codificación aplicados al texto definido en el programa.
