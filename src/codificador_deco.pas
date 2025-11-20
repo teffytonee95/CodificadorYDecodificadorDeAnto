@@ -174,8 +174,8 @@ end;
 var
   texto: string;
 begin
-  texto := 'Hola Mundo!';
-  Writeln('Codificador y Decodificador de Anto - 2010 (FPC clásico)');
+  texto := 'INSERTA TU TEXTO AQUI';
+  Writeln('Codificador y Decodificador de Anto - 2010 (Turbo Pascal)');
   Writeln('Texto original: ', texto);
   Writeln('Base64: ', EncodeBase64(texto));
   Writeln('Hex: ', EncodeHex(texto));
