@@ -31,7 +31,7 @@ Este programa en **Pascal** permite codificar texto en **14 métodos clásicos y
 var
   texto: string;
 begin
-  texto := 'Hola Mundo!';
+  texto := 'INSERTA TU MENSAJE AQUI';
   Writeln('Base64: ', EncodeBase64(texto));
   Writeln('Hex: ', EncodeHex(texto));
   Writeln('Binario: ', EncodeBin(texto));
@@ -86,7 +86,5 @@ Este proyecto es **libre de uso**, hecho con fines educativos y experimentales.
 ---
 
 ## Autor
-Antonela E. Arenas
-X: @teffyantonelita
 
 **Antonela E. Arenas** – Codificador y Decodificador de Anto, 2010.
